@@ -11,11 +11,10 @@ function submitName(){
     var femaleAkan = [
         'Akosua', 'Adwoa', 'Abeana', 'Akua', 'Yaa', 'Afua', 'Ama'
     ];
+
+    
     var date = new Date(dateCount) ;
     var nameIndex = document.getElementById("name").value;
     var genderIndex = document.getElementById("gender").value;
     var birthdateIndex = document.getElementById("birthdate").value;
-
-
-    
 }
