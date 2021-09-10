@@ -15,4 +15,7 @@ function submitName(){
     var nameIndex = document.getElementById("name").value;
     var genderIndex = document.getElementById("gender").value;
     var birthdateIndex = document.getElementById("birthdate").value;
+
+
+    
 }
